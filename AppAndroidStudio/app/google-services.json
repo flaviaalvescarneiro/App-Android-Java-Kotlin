@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279054833520",
+    "project_id": "app-android-studio-8a9d0",
+    "storage_bucket": "app-android-studio-8a9d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279054833520:android:a7645961dec791a2f621b5",
+        "android_client_info": {
+          "package_name": "br.com.faculdade.appandroidstudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YUErQh1oBDeObADWcMv4MSZrv3hjyIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
